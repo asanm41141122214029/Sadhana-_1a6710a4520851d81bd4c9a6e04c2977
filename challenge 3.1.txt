@@ -1,0 +1,12 @@
+
+
+
+def linear search product (product list,target product);
+for index, product in enumerate(products,list):
+if produced==target product;
+indices.append(index)
+returns indices
+product=["boot","shoes","loafers","shoes","sandals"]
+target="shoes"
+result=linear search product (product,target)
+print(result)
